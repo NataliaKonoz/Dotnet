@@ -1,0 +1,15 @@
+E:\Desktop\3 курс\Дот нет\Dotnet\Lab_1\task_10\bin\Debug\net8.0\task_10.exe
+E:\Desktop\3 курс\Дот нет\Dotnet\Lab_1\task_10\bin\Debug\net8.0\task_10.deps.json
+E:\Desktop\3 курс\Дот нет\Dotnet\Lab_1\task_10\bin\Debug\net8.0\task_10.runtimeconfig.json
+E:\Desktop\3 курс\Дот нет\Dotnet\Lab_1\task_10\bin\Debug\net8.0\task_10.dll
+E:\Desktop\3 курс\Дот нет\Dotnet\Lab_1\task_10\bin\Debug\net8.0\task_10.pdb
+E:\Desktop\3 курс\Дот нет\Dotnet\Lab_1\task_10\obj\Debug\net8.0\task_10.GeneratedMSBuildEditorConfig.editorconfig
+E:\Desktop\3 курс\Дот нет\Dotnet\Lab_1\task_10\obj\Debug\net8.0\task_10.AssemblyInfoInputs.cache
+E:\Desktop\3 курс\Дот нет\Dotnet\Lab_1\task_10\obj\Debug\net8.0\task_10.AssemblyInfo.cs
+E:\Desktop\3 курс\Дот нет\Dotnet\Lab_1\task_10\obj\Debug\net8.0\task_10.csproj.CoreCompileInputs.cache
+E:\Desktop\3 курс\Дот нет\Dotnet\Lab_1\task_10\obj\Debug\net8.0\task_10.sourcelink.json
+E:\Desktop\3 курс\Дот нет\Dotnet\Lab_1\task_10\obj\Debug\net8.0\task_10.dll
+E:\Desktop\3 курс\Дот нет\Dotnet\Lab_1\task_10\obj\Debug\net8.0\refint\task_10.dll
+E:\Desktop\3 курс\Дот нет\Dotnet\Lab_1\task_10\obj\Debug\net8.0\task_10.pdb
+E:\Desktop\3 курс\Дот нет\Dotnet\Lab_1\task_10\obj\Debug\net8.0\task_10.genruntimeconfig.cache
+E:\Desktop\3 курс\Дот нет\Dotnet\Lab_1\task_10\obj\Debug\net8.0\ref\task_10.dll

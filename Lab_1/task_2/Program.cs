@@ -65,5 +65,9 @@ class Program
 
         // Повернення до кольору таблиці
         Console.ForegroundColor = ConsoleColor.Yellow;
+
+        // Очікування натискання будь-якої клавіші перед закриттям
+        Console.WriteLine("Натисніть будь-яку клавішу, щоб завершити програму...");
+        Console.ReadKey();
     }
 }

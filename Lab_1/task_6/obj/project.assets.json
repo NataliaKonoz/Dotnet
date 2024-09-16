@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Desktop\\3 курс\\Дот нет\\Lab_1\\Lab_1_with_if\\Lab_1_with_if.csproj",
-      "projectName": "Lab_1_with_if",
-      "projectPath": "E:\\Desktop\\3 курс\\Дот нет\\Lab_1\\Lab_1_with_if\\Lab_1_with_if.csproj",
+      "projectUniqueName": "E:\\Desktop\\3 курс\\Дот нет\\Lab_1\\Lab_1_without_if\\Lab_1_without_if.csproj",
+      "projectName": "Lab_1_without_if",
+      "projectPath": "E:\\Desktop\\3 курс\\Дот нет\\Lab_1\\Lab_1_without_if\\Lab_1_without_if.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "E:\\Desktop\\3 курс\\Дот нет\\Lab_1\\Lab_1_with_if\\obj\\",
+      "outputPath": "E:\\Desktop\\3 курс\\Дот нет\\Lab_1\\Lab_1_without_if\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
