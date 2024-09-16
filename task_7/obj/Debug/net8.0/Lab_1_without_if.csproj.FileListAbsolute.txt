@@ -1,0 +1,14 @@
+E:\Desktop\3 курс\Дот нет\Lab_1\Lab_1_without_if\bin\Debug\net8.0\Lab_1_without_if.exe
+E:\Desktop\3 курс\Дот нет\Lab_1\Lab_1_without_if\bin\Debug\net8.0\Lab_1_without_if.deps.json
+E:\Desktop\3 курс\Дот нет\Lab_1\Lab_1_without_if\bin\Debug\net8.0\Lab_1_without_if.runtimeconfig.json
+E:\Desktop\3 курс\Дот нет\Lab_1\Lab_1_without_if\bin\Debug\net8.0\Lab_1_without_if.dll
+E:\Desktop\3 курс\Дот нет\Lab_1\Lab_1_without_if\bin\Debug\net8.0\Lab_1_without_if.pdb
+E:\Desktop\3 курс\Дот нет\Lab_1\Lab_1_without_if\obj\Debug\net8.0\Lab_1_without_if.GeneratedMSBuildEditorConfig.editorconfig
+E:\Desktop\3 курс\Дот нет\Lab_1\Lab_1_without_if\obj\Debug\net8.0\Lab_1_without_if.AssemblyInfoInputs.cache
+E:\Desktop\3 курс\Дот нет\Lab_1\Lab_1_without_if\obj\Debug\net8.0\Lab_1_without_if.AssemblyInfo.cs
+E:\Desktop\3 курс\Дот нет\Lab_1\Lab_1_without_if\obj\Debug\net8.0\Lab_1_without_if.csproj.CoreCompileInputs.cache
+E:\Desktop\3 курс\Дот нет\Lab_1\Lab_1_without_if\obj\Debug\net8.0\Lab_1_without_if.dll
+E:\Desktop\3 курс\Дот нет\Lab_1\Lab_1_without_if\obj\Debug\net8.0\refint\Lab_1_without_if.dll
+E:\Desktop\3 курс\Дот нет\Lab_1\Lab_1_without_if\obj\Debug\net8.0\Lab_1_without_if.pdb
+E:\Desktop\3 курс\Дот нет\Lab_1\Lab_1_without_if\obj\Debug\net8.0\Lab_1_without_if.genruntimeconfig.cache
+E:\Desktop\3 курс\Дот нет\Lab_1\Lab_1_without_if\obj\Debug\net8.0\ref\Lab_1_without_if.dll
