@@ -9,7 +9,8 @@ class Program
         Console.Write("Введiть довжину другого рядка: ");       // Вводимо довжину другого рядка
         int desiredLength;
 
-        while (!int.TryParse(Console.ReadLine(), out desiredLength) || desiredLength < inputString.Length) {        // Перевірка правильності введення
+        while (!int.TryParse(Console.ReadLine(), out desiredLength) || desiredLength < inputString.Length) 
+        {        // Перевірка правильності введення
             Console.Write("Некоректна довжина. Введiть довжину, що бiльша або рiвна довжинi першого рядка: ");
         }
 
@@ -25,9 +26,11 @@ class Program
         char[] resultArray = new string('0', desiredLength).ToCharArray();              // Створюємо рядок з нулями
         int resultIndex = spacesBefore;
                                                                                         // Вставляємо текст першого рядка в центр другого, повторюючи кожен символ, окрім '?'
-        for (int i = 0; i < inputString.Length && resultIndex < desiredLength; i++) {
+        for (int i = 0; i < inputString.Length && resultIndex < desiredLength; i++) 
+        {
             resultArray[resultIndex++] = inputString[i];
-            if (inputString[i] != '?' && resultIndex < desiredLength) {
+            if (inputString[i] != '?' && resultIndex < desiredLength) 
+            {
                 resultArray[resultIndex++] = inputString[i];                            // Повторення символу
             }
         }

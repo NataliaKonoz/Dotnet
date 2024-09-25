@@ -1,10 +1,15 @@
 {
   "ExpandedNodes": [
     "",
-    "\\task_1",
-    "\\task_2",
-    "\\task_3"
+    "\\task_7",
+    "\\task_7\\task_7_1\\bin",
+    "\\task_7\\task_7_1\\bin\\Debug",
+    "\\task_7\\task_7_3",
+    "\\task_8",
+    "\\task_8\\task_8_4",
+    "\\task_8\\task_8_4\\bin",
+    "\\task_8\\task_8_4\\bin\\Debug"
   ],
-  "SelectedNode": "\\task_1\\Program.cs",
+  "SelectedNode": "\\task_8\\task_8_4\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
