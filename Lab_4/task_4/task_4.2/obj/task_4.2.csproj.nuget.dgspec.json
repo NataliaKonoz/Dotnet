@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Desktop\\3 курс\\Дот нет\\Dotnet\\Lab_4\\task_4.2\\task_4.2.csproj": {}
+    "E:\\Desktop\\3 курс\\Дот нет\\Dotnet\\Lab_4\\task_4\\task_4.2\\task_4.2.csproj": {}
   },
   "projects": {
-    "E:\\Desktop\\3 курс\\Дот нет\\Dotnet\\Lab_4\\task_4.2\\task_4.2.csproj": {
+    "E:\\Desktop\\3 курс\\Дот нет\\Dotnet\\Lab_4\\task_4\\task_4.2\\task_4.2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Desktop\\3 курс\\Дот нет\\Dotnet\\Lab_4\\task_4.2\\task_4.2.csproj",
+        "projectUniqueName": "E:\\Desktop\\3 курс\\Дот нет\\Dotnet\\Lab_4\\task_4\\task_4.2\\task_4.2.csproj",
         "projectName": "task_4.2",
-        "projectPath": "E:\\Desktop\\3 курс\\Дот нет\\Dotnet\\Lab_4\\task_4.2\\task_4.2.csproj",
+        "projectPath": "E:\\Desktop\\3 курс\\Дот нет\\Dotnet\\Lab_4\\task_4\\task_4.2\\task_4.2.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "E:\\Desktop\\3 курс\\Дот нет\\Dotnet\\Lab_4\\task_4.2\\obj\\",
+        "outputPath": "E:\\Desktop\\3 курс\\Дот нет\\Dotnet\\Lab_4\\task_4\\task_4.2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
