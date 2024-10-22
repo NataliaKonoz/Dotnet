@@ -6,17 +6,6 @@
         private System.Windows.Forms.ComboBox comboBoxCities;
         private System.Windows.Forms.ListBox listBoxCities;
 
-        protected override void Dispose(bool disposing)
-        {
-            if (disposing && (components != null))
-            {
-                components.Dispose();
-            }
-            base.Dispose(disposing);
-        }
-
-        #region Windows Form Designer generated code
-
         private void InitializeComponent()
         {
             this.comboBoxCities = new System.Windows.Forms.ComboBox();
@@ -45,7 +34,5 @@
             this.Text = "Form1";
             this.ResumeLayout(false);
         }
-
-        #endregion
     }
 }

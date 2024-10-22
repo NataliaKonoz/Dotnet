@@ -5,14 +5,8 @@ namespace task_1
         public Form1()
         {
             InitializeComponent();
-
-            // Масив міст Угорщини
             string[] cities = { "Будапешт", "Дебрецен", "Сегед", "Мішкольц", "Печ", "Дьєр", "Кечкемет" };
-
-            // Додавання міст у ComboBox
             comboBoxCities.Items.AddRange(cities);
-
-            // Додавання міст у ListBox
             listBoxCities.Items.AddRange(cities);
         }
     }
